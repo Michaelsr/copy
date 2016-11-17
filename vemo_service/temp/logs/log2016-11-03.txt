@@ -1,0 +1,14 @@
+[2016-11-03 15:27:49] [INFO] [ioteca_service_apps.auths_api.user_view:77] [/api/auths/localuserinfo/] [127.0.0.1] [admin] [GET] User is authenticated
+[2016-11-03 15:30:54] [INFO] [ioteca_service_apps.auths_api.user_view:77] [/api/auths/localuserinfo/] [127.0.0.1] [admin] [GET] User is authenticated
+[2016-11-03 15:38:05] [INFO] [ioteca_service_apps.auths_api.user_view:77] [/api/auths/localuserinfo/] [127.0.0.1] [admin] [GET] User is authenticated
+[2016-11-03 17:59:10] [INFO] [vemo_service_apps.auths_api.user_view:79] [/api/auths/localuserinfo/] [127.0.0.1] [admin] [GET] User is authenticated
+[2016-11-03 18:00:34] [INFO] [vemo_service_apps.auths_api.user_view:79] [/api/auths/localuserinfo/] [127.0.0.1] [admin] [GET] User is authenticated
+[2016-11-03 18:12:18] [INFO] [vemo_service_apps.auths_api.user_view:79] [/api/auths/localuserinfo/] [127.0.0.1] [admin] [GET] User is authenticated
+[2016-11-03 18:40:00] [INFO] [vemo_service_apps.auths_api.user_view:79] [/api/auths/localuserinfo/] [127.0.0.1] [admin] [GET] User is authenticated
+[2016-11-03 22:53:44] [INFO] [vemo_service_apps.auths_api.user_view:79] [/api/auths/localuserinfo/] [127.0.0.1] [admin] [GET] User is authenticated
+[2016-11-03 23:14:09] [INFO] [vemo_service_apps.auths_api.user_view:79] [/api/auths/localuserinfo/] [127.0.0.1] [admin] [GET] User is authenticated
+[2016-11-04 00:10:36] [INFO] [vemo_service_apps.auths_api.user_view:79] [/api/auths/localuserinfo/] [127.0.0.1] [admin] [GET] User is authenticated
+[2016-11-04 01:02:42] [INFO] [vemo_service_apps.auths_api.user_view:79] [/api/auths/localuserinfo/] [127.0.0.1] [admin] [GET] User is authenticated
+[2016-11-04 01:03:55] [INFO] [vemo_service_apps.auths_api.user_view:79] [/api/auths/localuserinfo/] [127.0.0.1] [admin] [GET] User is authenticated
+[2016-11-04 01:04:02] [INFO] [vemo_service_apps.auths_api.user_view:79] [/api/auths/localuserinfo/] [127.0.0.1] [admin] [GET] User is authenticated
+[2016-11-04 01:05:20] [INFO] [vemo_service_apps.auths_api.user_view:79] [/api/auths/localuserinfo/] [127.0.0.1] [admin] [GET] User is authenticated

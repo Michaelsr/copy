@@ -1,0 +1,4 @@
+[2016-11-16 15:25:38] [INFO] [vemo_service_apps.auths_api.user_view:79] [/api/auths/localuserinfo/] [127.0.0.1] [admin] [GET] User is authenticated
+[2016-11-16 15:31:29] [INFO] [vemo_service_apps.auths_api.user_view:79] [/api/auths/localuserinfo/] [127.0.0.1] [admin] [GET] User is authenticated
+[2016-11-16 21:35:05] [INFO] [vemo_service_apps.auths_api.user_view:79] [/api/auths/localuserinfo/] [127.0.0.1] [admin] [GET] User is authenticated
+[2016-11-16 22:21:42] [INFO] [vemo_service_apps.auths_api.user_view:79] [/api/auths/localuserinfo/] [127.0.0.1] [admin] [GET] User is authenticated
